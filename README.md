@@ -5,11 +5,9 @@ Using Bootstrap templates from here: [https://startbootstrap.com/](https://start
 
 This is a Django 3.0.7 project. To run this project in your development machine by following these steps:
 1.  Clone this repo by running:
-`git clone https://github.com/aalkhulaifi/JobsforRefugees_Germany.git`
+`git clone https://github.com/aalkhulaifi/Django_templates.git`
 2. Create and activate virtualenv
 3. Install Django `pip install django`.
-4. Clone this repo by running:
-`git clone https://github.com/aalkhulaifi/Django_Templates.git`
 
 5. Install dependencies:
 
