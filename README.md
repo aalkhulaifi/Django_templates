@@ -8,9 +8,8 @@ This is a Django 3.0.7 project. To run this project in your development machine 
 `git clone https://github.com/aalkhulaifi/Django_templates.git`
 2. Create and activate virtualenv
 ```bash
-python -m venv myvenv
-cd myvenv/bin
-source activate
+python3 -m venv myvenv
+source myvenv/bin/activate
 ```
 4. Install Django `pip install django`.
 
